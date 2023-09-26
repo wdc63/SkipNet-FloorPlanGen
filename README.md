@@ -32,6 +32,8 @@ Run the following command for training:
 python train.py
 ```
 
+We provide our training model's weight : [model_weight](https://o365skku-my.sharepoint.com/:u:/g/personal/jyt0131_o365_skku_edu/ESUjetq2F-hAiFL9GxsU2dMBK9yyCl43UhhcCfdZD0d0PQ?e=g61IfC)
+
 ## Evaluation and Submission
 
 Run the following command for evaluation and submission:
