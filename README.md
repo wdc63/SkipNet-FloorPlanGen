@@ -1,5 +1,9 @@
 # SkipNet-FloorPlanGen
 
+This the official repo of report for ICCV 2023 1st Computer Vision Aided Architectural Design(CVAAD) Workshop
+
+[Report Link](https://arxiv.org/abs/2309.13881)
+
 ## Table of Contents
 1. [Environment Setup](#environment-setup)
 2. [Dataset Preprocessing](#dataset-preprocessing)
